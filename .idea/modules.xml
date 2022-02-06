@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExcelJieXi/ExcelJieXi.iml" filepath="$PROJECT_DIR$/ExcelJieXi/ExcelJieXi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectStudy.iml" filepath="$PROJECT_DIR$/ProjectStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autotask/autotask.iml" filepath="$PROJECT_DIR$/autotask/autotask.iml" />
+    </modules>
+  </component>
+</project>

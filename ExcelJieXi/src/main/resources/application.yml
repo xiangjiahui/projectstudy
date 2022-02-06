@@ -1,0 +1,3 @@
+mybatis:
+  mapper-locations: classpath:mybatis/**/*.xml
+  type-aliases-package: com.xjh.exceljiexi.domain

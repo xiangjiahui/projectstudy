@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en"  xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        a:link{
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <form th:action="@{/readExcel}" enctype="multipart/form-data" method="post">
+        <input type="file" name="file"/><br>
+        <input type="submit" value="导入Excel">
+    </form>
+
+    <a th:href="@{/get}" type="button" >导出</a>
+</body>
+</html>
