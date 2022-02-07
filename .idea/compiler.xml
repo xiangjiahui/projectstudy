@@ -9,12 +9,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ExcelJieXi" />
         <module name="autotask" />
+        <module name="task" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="autotask" target="1.8" />
       <module name="ExcelJieXi" target="1.8" />
       <module name="sendmail" target="1.8" />
+      <module name="task" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -22,6 +24,7 @@
       <module name="ExcelJieXi" options="-parameters" />
       <module name="autotask" options="-parameters" />
       <module name="sendmail" options="-parameters" />
+      <module name="task" options="-parameters" />
     </option>
   </component>
 </project>

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b2eee23-6412-4741-8a27-4b8f73581bd2" name="Changes" comment="" />
+    <list default="true" id="3b2eee23-6412-4741-8a27-4b8f73581bd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/xjh/task/asynctask/controller/AsyncController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/xjh/task/asynctask/service/AsynacTaskService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +17,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24gCnj9Elf7xGFlc1RECH6E4isf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -63,7 +78,39 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AutotaskApplication">
+  <component name="RunManager" selected="JUnit.TaskApplicationTests.test2">
+    <configuration name="TaskApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xjh.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xjh.task" />
+      <option name="MAIN_CLASS_NAME" value="com.xjh.task.TaskApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskApplicationTests.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xjh.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xjh.task" />
+      <option name="MAIN_CLASS_NAME" value="com.xjh.task.TaskApplicationTests" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AutotaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="autotask" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xjh.AutotaskApplication" />
@@ -79,10 +126,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xjh.TaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.AutotaskApplication" />
       <item itemvalue="Spring Boot.ExcelJieXiApplication" />
+      <item itemvalue="Spring Boot.TaskApplication" />
+      <item itemvalue="JUnit.TaskApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.TaskApplicationTests.test2" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TaskApplicationTests.test2" />
+        <item itemvalue="JUnit.TaskApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,7 +156,8 @@
       <option name="presentableId" value="Default" />
       <updated>1644043014692</updated>
       <workItem from="1644043016831" duration="12262000" />
-      <workItem from="1644127633942" duration="16110000" />
+      <workItem from="1644127633942" duration="18018000" />
+      <workItem from="1644213916141" duration="4188000" />
     </task>
     <servers />
   </component>

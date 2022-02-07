@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExcelJieXi/ExcelJieXi.iml" filepath="$PROJECT_DIR$/ExcelJieXi/ExcelJieXi.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjectStudy.iml" filepath="$PROJECT_DIR$/ProjectStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/autotask/autotask.iml" filepath="$PROJECT_DIR$/autotask/autotask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task/task.iml" filepath="$PROJECT_DIR$/task/task.iml" />
     </modules>
   </component>
 </project>
