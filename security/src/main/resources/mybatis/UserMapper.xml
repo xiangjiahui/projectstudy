@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xjh.security.mapper.UserMapper">
+
+    <resultMap id="BaseResultMap" type="com.xjh.security.domain.Admin">
+        <!-- column是数据库表列名  property是实体类属性 -->
+        <id column="id" jdbcType="INTEGER" property="id" />
+        <result column="username" jdbcType="VARCHAR" property="username" />
+        <result column="password" jdbcType="VARCHAR" property="password" />
+    </resultMap>
+
+
+
+</mapper>

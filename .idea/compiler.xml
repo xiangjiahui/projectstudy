@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ExcelJieXi" />
+        <module name="security" />
         <module name="autotask" />
         <module name="task" />
       </profile>
@@ -15,6 +16,7 @@
     <bytecodeTargetLevel>
       <module name="autotask" target="1.8" />
       <module name="ExcelJieXi" target="1.8" />
+      <module name="security" target="1.8" />
       <module name="sendmail" target="1.8" />
       <module name="task" target="1.8" />
     </bytecodeTargetLevel>
@@ -23,6 +25,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ExcelJieXi" options="-parameters" />
       <module name="autotask" options="-parameters" />
+      <module name="security" options="-parameters" />
       <module name="sendmail" options="-parameters" />
       <module name="task" options="-parameters" />
     </option>

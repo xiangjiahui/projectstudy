@@ -1,0 +1,14 @@
+server:
+  port: 80
+#  servlet:
+#    context-path: /security
+
+#spring:
+#  #设置security默认登录页面的账号和密码
+#  security:
+#    user:
+#      name: xjh
+#      password: 981117
+mybatis-plus:
+  mapper-locations: classpath:mybatis/*.xml
+  type-aliases-package: com.xjh.security.domain
